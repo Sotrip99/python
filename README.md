@@ -1,2 +1,2 @@
-# python_Tkjw
+# python
 파이썬
